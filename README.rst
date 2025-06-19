@@ -39,7 +39,7 @@ Running the tutorials
 
     jupyter notebook
 
-2. The above should open a window in your default browser. Click on and run through the notebook files, in suggested order:
+2. The above should open a window in your default browser. Click on and run through the notebook files, in suggested order::
 
     1_introduction_ssv_scaffolds.ipynb
     2_query_structure.ipynb
