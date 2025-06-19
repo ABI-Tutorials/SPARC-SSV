@@ -27,6 +27,9 @@ Python version 3.7+ for which jupyter and cmlibs.zinc are available on https://p
    * - cmlibs.maths
      - pip install cmlibs.maths
      - Useful mathematical functions for working with Zinc in Python.
+   * - ssvtools
+     - pip install ssvtools
+     - High-level tools for querying and transforming vagus scaffolds. https://github.com/ABI-Software/ssvtools
 
 
 Running the tutorials
@@ -39,5 +42,6 @@ Running the tutorials
 2. The above should open a window in your default browser. Click on and run through the notebook files, in suggested order:
 
     1_introduction_ssv_scaffolds.ipynb
+    2_query_structure.ipynb
 
 More details on using jupyter notebooks can be found at https://docs.jupyter.org/en/latest/running.html
